@@ -58,11 +58,11 @@ Marketing Channel (Buttons)
 Cross-filtering: Clicking on any visual updates all others.
 ### Key Insight Discovered
 
-**1. Performance Overview:** The marketing strategy is driving revenue, but ROI varies significantly by product/channel, indicating inefficiencies in budget allocation.
+1. **Performance Overview:** The marketing strategy is driving revenue, but ROI varies significantly by product/channel, indicating inefficiencies in budget allocation.
 
-**2. Channel level Analysis:** GoogleAds (0.52M) is the highest spend, Influencer (0.46M) is moderately spend  instagram ads (0.45M) is lower spend and under utilized with conversion check.
+2. **Channel level Analysis:** GoogleAds (0.52M) is the highest spend, Influencer (0.46M) is moderately spend  instagram ads (0.45M) is lower spend and under utilized with conversion check.
 
-**3. Category Performance:** Groceries (0.24M conversions) leads, followed by Snacks (0.22M) while Household (0.21M) and Personal Care (0.21M) l.ag slightly.
+3. **Category Performance:** Groceries (0.24M conversions) leads, followed by Snacks (0.22M) while Household (0.21M) and Personal Care (0.21M) l.ag slightly.
 
 4. Clicks (2.6M peak) and Conversions (2.4M) are stable but could grow
 
@@ -72,16 +72,19 @@ Cross-filtering: Clicking on any visual updates all others.
 1. Enhance Click-Through Rates (CTR)
 
 **Action:** Implement A/B testing for ad creatives, refine audience targeting, and experiment with innovative ad formats.
+
 **Goal:** Elevate CTR beyond the current benchmark.
 
 2. Focus on High-ROI Categories
 
 **Action:** Prioritize marketing efforts for Household and Personal Care products, as they deliver superior returns.
+
 **Rationale:** These categories consistently demonstrate higher profitability per spend.
 
 3. Optimize Budget Allocation Timing
 
 **Action:** Redistribute ad spend more evenly across quarters to avoid over-concentration in January and December.
+
 **Benefit:** Mitigate seasonal performance dips and maintain consistent engagement.
 
 4. Reassess Low-Performing Categories
