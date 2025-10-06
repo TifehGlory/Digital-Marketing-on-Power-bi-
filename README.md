@@ -17,9 +17,12 @@ Marketing Campaign Data (Includes: Ad Spend, Impressions, Clicks, Conversions, R
 
 <img width="508" height="201" alt="image" src="https://github.com/user-attachments/assets/1d702f47-3977-4ccd-813c-39549a854332" />
 
+
 ## Visual Layout
 
 <img width="509" height="294" alt="image" src="https://github.com/user-attachments/assets/32354a93-25c0-42ba-bea3-055853964340" />
+
+
 ### KPI Cards using New card as visual
 Total Ad Spend
 Total Impression
