@@ -62,7 +62,7 @@ Cross-filtering: Clicking on any visual updates all others.
 
 2. **Channel level Analysis:** GoogleAds (0.52M) is the highest spend, Influencer (0.46M) is moderately spend  instagram ads (0.45M) is lower spend and under utilized with conversion check.
 
-3. **Category Performance:** Groceries (0.24M conversions) leads, followed by Snacks (0.22M) while Household (0.21M) and Personal Care (0.21M) l.ag slightly.
+3. **Category Performance:** Groceries (0.24M conversions) leads, followed by Snacks (0.22M) while Household (0.21M) and Personal Care (0.21M) lag slightly.
 
 4. Clicks (2.6M peak) and Conversions (2.4M) are stable but could grow
 
@@ -92,7 +92,9 @@ Cross-filtering: Clicking on any visual updates all others.
 **Action:** Either reduce investment in Beverages and Snacks or overhaul their marketing strategies through:
 
 a. Improved audience segmentation
+
 b. Enhanced value proposition in ad copy
+
 c. Competitive pricing promotions
 
 5. Capitalize on Top-Performing Products
