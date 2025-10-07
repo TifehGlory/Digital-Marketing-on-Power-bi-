@@ -1,4 +1,4 @@
-# Digital-Marketing-on-Power-bi-
+# Digital-Marketing-Analysis-on-Power-bi-
 ## Project Overview
 This documentation outlines the development of an interactive digital marketing dashboard designed to monitor campaign performance across multiple channels (Email, Instagram Ads, Influencer Marketing, Google ads.).The dashboard provides actionable insights to optimize ad spend, track conversions, and measure ROI.
 ## Project Objectives
