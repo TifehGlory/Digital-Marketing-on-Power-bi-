@@ -32,30 +32,43 @@ Total Revenue
 Overall ROI
 ### Charts & Graphs
 1. Ad Spend by Channel (Stacked Bar Chart)
+
 X-axis: Marketing Channel
 Y-axis: Ad Spend
+
 2. Clicks vs. Impressions (Scatter Plot)
+
 X-axis: Impressions
 Y-axis: Clicks
 Size: Conversion Rate
+
 3. Conversion Rate by Category (Horizontal Bar Chart)
+
 Category: Product Category
 Value: Conversion Rate = DIVIDE([Conversions], [Clicks], 0)
+
 4. Revenue by Product (Horizontal Bar Chart)
+
 X-axis: Revenue
 Y-axis: Product Name
+
 5. ROI by Product name (Stacked column chart)
 Y-axis: Product Name
 X-axis: ROI
+
 6. Clicks by Impression (Stack Area Chart)
+
 7. Conversion rate by marketing channel (Tree Map)
- ### Interactivity Features
+
+### Interactivity Features
 ### Slicers for:
+
 Campaign Date (Range selector)
 Product Name (Dropdown)
 Product Category (Checklist)
 Marketing Channel (Buttons)
 Cross-filtering: Clicking on any visual updates all others.
+
 ### Key Insight Discovered
 
 1. **Performance Overview:** The marketing strategy is driving revenue, but ROI varies significantly by product/channel, indicating inefficiencies in budget allocation.
